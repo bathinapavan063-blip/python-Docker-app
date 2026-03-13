@@ -8,3 +8,9 @@ python-docker-app/
 ├── Dockerfile
 ├── requirements.txt
 └── app.py
+
+folder structure:
+nginx-project/
+│
+├── Dockerfile
+├── inde.html
